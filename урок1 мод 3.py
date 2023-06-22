@@ -53,5 +53,5 @@ def counter(s): # O(N)
         print(i,count)
 
 
-counter('aaaaadsfiyad')
-print(len('aaaaadsfiyad'))
+counter('abcddcba')
+print(len('aaaaadkhbhbw'))
